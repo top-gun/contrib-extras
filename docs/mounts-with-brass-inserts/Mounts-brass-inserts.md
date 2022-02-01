@@ -81,6 +81,8 @@ You find the Orbiter plate above in the picture of the carriage.
 
 ### Mosquito
 
+Please note: You can still make out the hexagon of the brass nuts in the probe mount. It turned out that the printability is better if this cutout remains. The holes were remodeled to accept brass inserts and the channels are longer than the insert, so there is no harm from the shape.
+
 [OnShape](https://cad.onshape.com/documents/e2f2c2613337efae0a2ac6ae/w/d2d9cbef6cf272c261c0f9dd/e/01d1565488059980d5f63a9d)
 
 | No | Qty | Name                                           | Printable | Source
